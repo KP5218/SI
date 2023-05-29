@@ -55,7 +55,7 @@ header
     margin: 0;
     list-style: none;
     position:absolute;
-    z-index: 1000; 
+    z-index: 1000;
     
 
 }
@@ -71,7 +71,7 @@ header
 }
 .menu li a
 {
-  width: 10.67em;
+  width: 11.37em;
   height: 4em;
 }
 .link_menu
