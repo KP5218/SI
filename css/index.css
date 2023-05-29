@@ -621,7 +621,7 @@ p
 }
 .bodyfuerza
 {
-  background-color:#A1DBBC   ;
+  background-color:#9EFFB0 ;
 }
 .bodyenergia
 {
@@ -648,6 +648,7 @@ p
   border:solid 0.7rem black;
   background-color: #F8C471;
 }
+
 .lateldistancia
 {
   width: 19rem;
@@ -767,6 +768,7 @@ p
   margin-left: 1rem;
   border-radius: 0.3rem;
 }
+
 /*boton de convertir*/
 .convetir
 {
